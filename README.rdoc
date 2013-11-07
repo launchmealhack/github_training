@@ -10,7 +10,7 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
-JERRY WAS HERE
+
 * Database creation
 
 * Database initialization
